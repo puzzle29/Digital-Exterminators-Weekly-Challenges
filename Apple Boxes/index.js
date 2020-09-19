@@ -39,5 +39,3 @@ function appleBoxes (k) {
 
     return yellowApples - redApples;
 }
-
-console.log( appleBoxes( 5 ) )
